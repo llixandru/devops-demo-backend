@@ -1,0 +1,10 @@
+{
+    "eu-frankfurt-1": {
+        "CPU": "ocid1.image.oc1.eu-frankfurt-1.aaaaaaaas2j2fs2ahfvqrydivnetpld3kymzd2hq24pagd3oqccftot4pl5q",
+        "GPU": "ocid1.image.oc1.eu-frankfurt-1.aaaaaaaas2j2fs2ahfvqrydivnetpld3kymzd2hq24pagd3oqccftot4pl5q"
+    },
+    "eu-amsterdam-1": {
+        "CPU": "ocid1.image.oc1.eu-amsterdam-1.aaaaaaaa2tz7mwkc5upj3mpm4ofayqzypqtdwwznl3tf4vi6cimskadwggsa",
+        "GPU": "ocid1.image.oc1.eu-amsterdam-1.aaaaaaaa2tz7mwkc5upj3mpm4ofayqzypqtdwwznl3tf4vi6cimskadwggsa"
+    }
+}
